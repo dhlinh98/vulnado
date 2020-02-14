@@ -1,3 +1,4 @@
+[![DepShield Badge](https://depshield.sonatype.org/badges/dhlinh98/vulnado/depshield.svg)](https://depshield.github.io)
 # Vulnado - Intentionally Vulnerable Java Application
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
